@@ -1,6 +1,6 @@
 {
   "id": 1,
-  "isClosed": "false",
+  "isClosed": "true",
   "isHoliday": "false",
   "isClosedWeather": "false",
   "errorMessage": "We are currently experiencing system problems and are unable to service your call. You will now be transferred."
